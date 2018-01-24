@@ -4,4 +4,4 @@ An implementation of deep learning approaches for text detection in still images
 # Reference
 [1]End-To-End Text Detection Using Deep Learning
 
-[2]Ahmed Ibrahim, A. Lynn Abbott, Mohamed E Hussein[Input Fast-Forwarding for Better Deep Learning](https://www.researchgate.net/publication/318141419_Input_Fast-Forwarding_for_Better_Deep_Learning)
+[2]Ahmed Ibrahim, A. Lynn Abbott, Mohamed E Hussein [Input Fast-Forwarding for Better Deep Learning](https://www.researchgate.net/publication/318141419_Input_Fast-Forwarding_for_Better_Deep_Learning)
