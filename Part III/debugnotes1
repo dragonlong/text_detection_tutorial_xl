@@ -1,0 +1,1200 @@
+rocessing 2 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+55 text boxes before nms
+3 Boxs found
+Processing 3 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+68 text boxes before nms
+4 Boxs found
+Processing 4 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+69 text boxes before nms
+4 Boxs found
+Processing 5 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+60 text boxes before nms
+3 Boxs found
+Processing 6 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+63 text boxes before nms
+4 Boxs found
+Processing 7 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+64 text boxes before nms
+3 Boxs found
+Processing 8 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+59 text boxes before nms
+3 Boxs found
+Processing 9 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+79 text boxes before nms
+4 Boxs found
+Processing 10 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+90 text boxes before nms
+4 Boxs found
+Processing 11 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+97 text boxes before nms
+5 Boxs found
+Processing 12 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+85 text boxes before nms
+3 Boxs found
+Processing 13 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+98 text boxes before nms
+5 Boxs found
+Processing 14 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+81 text boxes before nms
+2 Boxs found
+Processing 15 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+110 text boxes before nms
+4 Boxs found
+Processing 16 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+164 text boxes before nms
+7 Boxs found
+Processing 17 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+137 text boxes before nms
+8 Boxs found
+Processing 18 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+147 text boxes before nms
+7 Boxs found
+Processing 19 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+139 text boxes before nms
+8 Boxs found
+Processing 20 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+152 text boxes before nms
+8 Boxs found
+Processing 21 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+148 text boxes before nms
+8 Boxs found
+Processing 22 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+120 text boxes before nms
+6 Boxs found
+Processing 23 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+71 text boxes before nms
+2 Boxs found
+Processing 24 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+63 text boxes before nms
+1 Boxs found
+Processing 25 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+154 text boxes before nms
+6 Boxs found
+Processing 26 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+129 text boxes before nms
+4 Boxs found
+Processing 27 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+177 text boxes before nms
+8 Boxs found
+Processing 28 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+156 text boxes before nms
+7 Boxs found
+Processing 29 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+168 text boxes before nms
+6 Boxs found
+Processing 30 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+171 text boxes before nms
+6 Boxs found
+Processing 31 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+190 text boxes before nms
+6 Boxs found
+Processing 32 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+187 text boxes before nms
+8 Boxs found
+Processing 33 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+150 text boxes before nms
+4 Boxs found
+Processing 34 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+132 text boxes before nms
+3 Boxs found
+Processing 35 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+129 text boxes before nms
+2 Boxs found
+Processing 36 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+24 text boxes before nms
+0 Boxs found
+Processing 37 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+32 text boxes before nms
+0 Boxs found
+Processing 38 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+92 text boxes before nms
+1 Boxs found
+Processing 39 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+92 text boxes before nms
+1 Boxs found
+Processing 40 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+157 text boxes before nms
+3 Boxs found
+Processing 41 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+161 text boxes before nms
+3 Boxs found
+Processing 42 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+148 text boxes before nms
+2 Boxs found
+Processing 43 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+152 text boxes before nms
+3 Boxs found
+Processing 44 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+174 text boxes before nms
+3 Boxs found
+Processing 45 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+163 text boxes before nms
+3 Boxs found
+Processing 46 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+221 text boxes before nms
+5 Boxs found
+Processing 47 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+222 text boxes before nms
+6 Boxs found
+Processing 48 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+244 text boxes before nms
+6 Boxs found
+Processing 49 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+258 text boxes before nms
+6 Boxs found
+Processing 50 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+249 text boxes before nms
+6 Boxs found
+Processing 51 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+267 text boxes before nms
+7 Boxs found
+Processing 52 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+274 text boxes before nms
+7 Boxs found
+Processing 53 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+282 text boxes before nms
+8 Boxs found
+Processing 54 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+285 text boxes before nms
+8 Boxs found
+Processing 55 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+291 text boxes before nms
+6 Boxs found
+Processing 56 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+297 text boxes before nms
+5 Boxs found
+Processing 57 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+315 text boxes before nms
+6 Boxs found
+Processing 58 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+318 text boxes before nms
+8 Boxs found
+Processing 59 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+326 text boxes before nms
+8 Boxs found
+Processing 60 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+349 text boxes before nms
+11 Boxs found
+Processing 61 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+357 text boxes before nms
+11 Boxs found
+Processing 62 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+338 text boxes before nms
+9 Boxs found
+Processing 63 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+361 text boxes before nms
+12 Boxs found
+Processing 64 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+346 text boxes before nms
+10 Boxs found
+Processing 65 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+365 text boxes before nms
+9 Boxs found
+Processing 66 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+364 text boxes before nms
+9 Boxs found
+Processing 67 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+362 text boxes before nms
+11 Boxs found
+Processing 68 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+357 text boxes before nms
+10 Boxs found
+Processing 69 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+339 text boxes before nms
+11 Boxs found
+Processing 70 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+337 text boxes before nms
+10 Boxs found
+Processing 71 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+332 text boxes before nms
+12 Boxs found
+Processing 72 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+348 text boxes before nms
+7 Boxs found
+Processing 73 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+323 text boxes before nms
+7 Boxs found
+Processing 74 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+303 text boxes before nms
+6 Boxs found
+Processing 75 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+295 text boxes before nms
+6 Boxs found
+Processing 76 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+342 text boxes before nms
+8 Boxs found
+Processing 77 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+316 text boxes before nms
+9 Boxs found
+Processing 78 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+319 text boxes before nms
+10 Boxs found
+Processing 79 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+310 text boxes before nms
+10 Boxs found
+Processing 80 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+294 text boxes before nms
+9 Boxs found
+Processing 81 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+245 text boxes before nms
+6 Boxs found
+Processing 82 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+267 text boxes before nms
+7 Boxs found
+Processing 83 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+245 text boxes before nms
+6 Boxs found
+Processing 84 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+232 text boxes before nms
+5 Boxs found
+Processing 85 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+253 text boxes before nms
+6 Boxs found
+Processing 86 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+292 text boxes before nms
+7 Boxs found
+Processing 87 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+286 text boxes before nms
+7 Boxs found
+Processing 88 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+291 text boxes before nms
+8 Boxs found
+Processing 89 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+308 text boxes before nms
+11 Boxs found
+Processing 90 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+319 text boxes before nms
+10 Boxs found
+Processing 91 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+282 text boxes before nms
+8 Boxs found
+Processing 92 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+265 text boxes before nms
+6 Boxs found
+Processing 93 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+253 text boxes before nms
+8 Boxs found
+Processing 94 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+245 text boxes before nms
+7 Boxs found
+Processing 95 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+217 text boxes before nms
+6 Boxs found
+Processing 96 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+229 text boxes before nms
+7 Boxs found
+Processing 97 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+231 text boxes before nms
+7 Boxs found
+Processing 98 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+208 text boxes before nms
+6 Boxs found
+Processing 99 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+213 text boxes before nms
+5 Boxs found
+Processing 100 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+149 text boxes before nms
+5 Boxs found
+Processing 101 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+223 text boxes before nms
+4 Boxs found
+Processing 102 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+199 text boxes before nms
+6 Boxs found
+Processing 103 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+164 text boxes before nms
+4 Boxs found
+Processing 104 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+72 text boxes before nms
+2 Boxs found
+Processing 105 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+144 text boxes before nms
+5 Boxs found
+Processing 106 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+148 text boxes before nms
+4 Boxs found
+Processing 107 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+212 text boxes before nms
+6 Boxs found
+Processing 108 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+177 text boxes before nms
+6 Boxs found
+Processing 109 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+213 text boxes before nms
+7 Boxs found
+Processing 110 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+250 text boxes before nms
+7 Boxs found
+Processing 111 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+236 text boxes before nms
+7 Boxs found
+Processing 112 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+247 text boxes before nms
+8 Boxs found
+Processing 113 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+181 text boxes before nms
+8 Boxs found
+Processing 114 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+251 text boxes before nms
+8 Boxs found
+Processing 115 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+253 text boxes before nms
+8 Boxs found
+Processing 116 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+302 text boxes before nms
+10 Boxs found
+Processing 117 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+304 text boxes before nms
+14 Boxs found
+Processing 118 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+288 text boxes before nms
+13 Boxs found
+Processing 119 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+288 text boxes before nms
+11 Boxs found
+Processing 120 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+299 text boxes before nms
+12 Boxs found
+Processing 121 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+303 text boxes before nms
+12 Boxs found
+Processing 122 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+297 text boxes before nms
+11 Boxs found
+Processing 123 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+327 text boxes before nms
+12 Boxs found
+Processing 124 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+346 text boxes before nms
+15 Boxs found
+Processing 125 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+346 text boxes before nms
+15 Boxs found
+Processing 126 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+349 text boxes before nms
+15 Boxs found
+Processing 127 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+362 text boxes before nms
+15 Boxs found
+Processing 128 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+346 text boxes before nms
+15 Boxs found
+Processing 129 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+332 text boxes before nms
+13 Boxs found
+Processing 130 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+319 text boxes before nms
+11 Boxs found
+Processing 131 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+321 text boxes before nms
+12 Boxs found
+Processing 132 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+343 text boxes before nms
+12 Boxs found
+Processing 133 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+337 text boxes before nms
+12 Boxs found
+Processing 134 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+305 text boxes before nms
+10 Boxs found
+Processing 135 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+317 text boxes before nms
+11 Boxs found
+Processing 136 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+319 text boxes before nms
+11 Boxs found
+Processing 137 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+269 text boxes before nms
+9 Boxs found
+Processing 138 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+280 text boxes before nms
+8 Boxs found
+Processing 139 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+274 text boxes before nms
+9 Boxs found
+Processing 140 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+262 text boxes before nms
+8 Boxs found
+Processing 141 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+303 text boxes before nms
+11 Boxs found
+Processing 142 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+291 text boxes before nms
+11 Boxs found
+Processing 143 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+281 text boxes before nms
+6 Boxs found
+Processing 144 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+267 text boxes before nms
+8 Boxs found
+Processing 145 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+296 text boxes before nms
+10 Boxs found
+Processing 146 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+308 text boxes before nms
+9 Boxs found
+Processing 147 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+248 text boxes before nms
+6 Boxs found
+Processing 148 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+240 text boxes before nms
+6 Boxs found
+Processing 149 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+242 text boxes before nms
+6 Boxs found
+Processing 150 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+200 text boxes before nms
+4 Boxs found
+Processing 151 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+161 text boxes before nms
+5 Boxs found
+Processing 152 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+128 text boxes before nms
+2 Boxs found
+Processing 153 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+141 text boxes before nms
+3 Boxs found
+Processing 154 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+190 text boxes before nms
+5 Boxs found
+Processing 155 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+178 text boxes before nms
+5 Boxs found
+Processing 156 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+202 text boxes before nms
+6 Boxs found
+Processing 157 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+209 text boxes before nms
+6 Boxs found
+Processing 158 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+221 text boxes before nms
+6 Boxs found
+Processing 159 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+210 text boxes before nms
+5 Boxs found
+Processing 160 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+209 text boxes before nms
+4 Boxs found
+Processing 161 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+217 text boxes before nms
+4 Boxs found
+Processing 162 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+201 text boxes before nms
+4 Boxs found
+Processing 163 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+188 text boxes before nms
+5 Boxs found
+Processing 164 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+127 text boxes before nms
+4 Boxs found
+Processing 165 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+122 text boxes before nms
+4 Boxs found
+Processing 166 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+120 text boxes before nms
+4 Boxs found
+Processing 167 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+134 text boxes before nms
+4 Boxs found
+Processing 168 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+126 text boxes before nms
+3 Boxs found
+Processing 169 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+147 text boxes before nms
+4 Boxs found
+Processing 170 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+140 text boxes before nms
+4 Boxs found
+Processing 171 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+153 text boxes before nms
+4 Boxs found
+Processing 172 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+159 text boxes before nms
+4 Boxs found
+Processing 173 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+132 text boxes before nms
+3 Boxs found
+Processing 174 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+98 text boxes before nms
+3 Boxs found
+Processing 175 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+150 text boxes before nms
+4 Boxs found
+Processing 176 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+177 text boxes before nms
+6 Boxs found
+Processing 177 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+165 text boxes before nms
+7 Boxs found
+Processing 178 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+133 text boxes before nms
+5 Boxs found
+Processing 179 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+113 text boxes before nms
+6 Boxs found
+Processing 180 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+62 text boxes before nms
+2 Boxs found
+Processing 181 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+60 text boxes before nms
+3 Boxs found
+Processing 182 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+78 text boxes before nms
+3 Boxs found
+Processing 183 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+71 text boxes before nms
+2 Boxs found
+Processing 184 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+88 text boxes before nms
+4 Boxs found
+Processing 185 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+91 text boxes before nms
+4 Boxs found
+Processing 186 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+117 text boxes before nms
+4 Boxs found
+Processing 187 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+103 text boxes before nms
+4 Boxs found
+Processing 188 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+87 text boxes before nms
+4 Boxs found
+Processing 189 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+78 text boxes before nms
+2 Boxs found
+Processing 190 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+82 text boxes before nms
+3 Boxs found
+Processing 191 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+82 text boxes before nms
+3 Boxs found
+Processing 192 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+68 text boxes before nms
+3 Boxs found
+Processing 193 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+87 text boxes before nms
+3 Boxs found
+Processing 194 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+131 text boxes before nms
+4 Boxs found
+Processing 195 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+52 text boxes before nms
+1 Boxs found
+Processing 196 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+44 text boxes before nms
+1 Boxs found
+Processing 197 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+78 text boxes before nms
+3 Boxs found
+Processing 198 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+80 text boxes before nms
+3 Boxs found
+Processing 199 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+82 text boxes before nms
+3 Boxs found
+Processing 200 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+71 text boxes before nms
+2 Boxs found
+Processing 201 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+54 text boxes before nms
+1 Boxs found
+Processing 202 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+80 text boxes before nms
+3 Boxs found
+Processing 203 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+65 text boxes before nms
+1 Boxs found
+Processing 204 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+65 text boxes before nms
+1 Boxs found
+Processing 205 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+79 text boxes before nms
+2 Boxs found
+Processing 206 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+103 text boxes before nms
+2 Boxs found
+Processing 207 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+119 text boxes before nms
+3 Boxs found
+Processing 208 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+157 text boxes before nms
+4 Boxs found
+Processing 209 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+186 text boxes before nms
+5 Boxs found
+Processing 210 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+97 text boxes before nms
+2 Boxs found
+Processing 211 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+68 text boxes before nms
+1 Boxs found
+Processing 212 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+60 text boxes before nms
+1 Boxs found
+Processing 213 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+5 text boxes before nms
+0 Boxs found
+Processing 214 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+132 text boxes before nms
+5 Boxs found
+Processing 215 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+114 text boxes before nms
+3 Boxs found
+Processing 216 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+123 text boxes before nms
+3 Boxs found
+Processing 217 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+123 text boxes before nms
+4 Boxs found
+Processing 218 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+123 text boxes before nms
+4 Boxs found
+Processing 219 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+190 text boxes before nms
+8 Boxs found
+Processing 220 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+174 text boxes before nms
+5 Boxs found
+Processing 221 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+182 text boxes before nms
+7 Boxs found
+Processing 222 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+185 text boxes before nms
+8 Boxs found
+Processing 223 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+207 text boxes before nms
+8 Boxs found
+Processing 224 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+193 text boxes before nms
+8 Boxs found
+Processing 225 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+188 text boxes before nms
+6 Boxs found
+Processing 226 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+163 text boxes before nms
+4 Boxs found
+Processing 227 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+149 text boxes before nms
+5 Boxs found
+Processing 228 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+114 text boxes before nms
+2 Boxs found
+Processing 229 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+154 text boxes before nms
+3 Boxs found
+Processing 230 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+177 text boxes before nms
+8 Boxs found
+Processing 231 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+99 text boxes before nms
+3 Boxs found
+Processing 232 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+64 text boxes before nms
+2 Boxs found
+Processing 233 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+116 text boxes before nms
+6 Boxs found
+Processing 234 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+126 text boxes before nms
+7 Boxs found
+Processing 235 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+181 text boxes before nms
+8 Boxs found
+Processing 236 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+150 text boxes before nms
+7 Boxs found
+Processing 237 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+205 text boxes before nms
+10 Boxs found
+Processing 238 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+154 text boxes before nms
+7 Boxs found
+Processing 239 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+160 text boxes before nms
+9 Boxs found
+Processing 240 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+197 text boxes before nms
+9 Boxs found
+Processing 241 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+168 text boxes before nms
+8 Boxs found
+Processing 242 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+43 text boxes before nms
+6 Boxs found
+Processing 243 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+42 text boxes before nms
+2 Boxs found
+Processing 244 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+144 text boxes before nms
+9 Boxs found
+Processing 245 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+178 text boxes before nms
+9 Boxs found
+Processing 246 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+224 text boxes before nms
+10 Boxs found
+Processing 247 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+229 text boxes before nms
+10 Boxs found
+Processing 248 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+242 text boxes before nms
+11 Boxs found
+Processing 249 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+277 text boxes before nms
+13 Boxs found
+Processing 250 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+242 text boxes before nms
+12 Boxs found
+Processing 251 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+98 text boxes before nms
+6 Boxs found
+Processing 252 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+173 text boxes before nms
+6 Boxs found
+Processing 253 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+186 text boxes before nms
+5 Boxs found
+Processing 254 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+66 text boxes before nms
+4 Boxs found
+Processing 255 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+44 text boxes before nms
+4 Boxs found
+Processing 256 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+137 text boxes before nms
+4 Boxs found
+Processing 257 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+144 text boxes before nms
+4 Boxs found
+Processing 258 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+80 text boxes before nms
+4 Boxs found
+Processing 259 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+13 text boxes before nms
+1 Boxs found
+Processing 260 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+7 text boxes before nms
+0 Boxs found
+Processing 261 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 262 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 263 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+31 text boxes before nms
+2 Boxs found
+Processing 264 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+26 text boxes before nms
+1 Boxs found
+Processing 265 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+15 text boxes before nms
+1 Boxs found
+Processing 266 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 267 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 268 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+14 text boxes before nms
+1 Boxs found
+Processing 269 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+64 text boxes before nms
+5 Boxs found
+Processing 270 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+68 text boxes before nms
+5 Boxs found
+Processing 271 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+31 text boxes before nms
+3 Boxs found
+Processing 272 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+8 text boxes before nms
+1 Boxs found
+Processing 273 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 274 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 275 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+15 text boxes before nms
+1 Boxs found
+Processing 276 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+2 text boxes before nms
+0 Boxs found
+Processing 277 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 278 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+1 text boxes before nms
+0 Boxs found
+Processing 279 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+2 text boxes before nms
+0 Boxs found
+Processing 280 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+8 text boxes before nms
+1 Boxs found
+Processing 281 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+15 text boxes before nms
+1 Boxs found
+Processing 282 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+12 text boxes before nms
+1 Boxs found
+Processing 283 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 284 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 285 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+6 text boxes before nms
+0 Boxs found
+Processing 286 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 287 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+1 text boxes before nms
+0 Boxs found
+Processing 288 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 289 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+13 text boxes before nms
+1 Boxs found
+Processing 290 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+23 text boxes before nms
+1 Boxs found
+Processing 291 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+11 text boxes before nms
+1 Boxs found
+Processing 292 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+33 text boxes before nms
+2 Boxs found
+Processing 293 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+21 text boxes before nms
+1 Boxs found
+Processing 294 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+28 text boxes before nms
+3 Boxs found
+Processing 295 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+9 text boxes before nms
+1 Boxs found
+Processing 296 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+8 text boxes before nms
+1 Boxs found
+Processing 297 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+7 text boxes before nms
+1 Boxs found
+Processing 298 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 299 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 300 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
+Processing 301 frame with  (480, 720, 3)
+score shape (1, 120, 168, 1), geometry shape (1, 120, 168, 5), feature shape (1, 120, 168, 32)
+0 text boxes before nms
+0 Boxs found
